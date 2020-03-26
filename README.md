@@ -1,7 +1,3 @@
-test1
+ADD
 
-hoge!
-
-update
-
-20200323 update now
+edit at kadotapc
